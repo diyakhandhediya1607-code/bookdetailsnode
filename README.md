@@ -4,6 +4,13 @@ A clean and modular RESTful API built with **Node.js**, **Express.js**, and **Mo
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the complete codebase explanation and live API testing demonstration here:  
+👉 **[Watch Project Demo Video](https://drive.google.com/file/d/1jT8226G-QVa5qmnG2ZvXhvSc_SlJq6wg/view?usp=sharing)**
+
+---
+
 ## 🚀 Features
 
 - **Full CRUD Operations**: Create, Read, Update, and Delete books.
